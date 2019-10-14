@@ -1,6 +1,5 @@
 {
   "name": "sentry-discord",
-  "alias": "sentry-discord",
   "version": 2,
   "builds": [
     {
